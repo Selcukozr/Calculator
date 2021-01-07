@@ -2,7 +2,7 @@
 """
 Created on Thu Jan  7 17:16:13 2021
 
-@author: CZR
+@author: Selcuk
 """
 
 giris = """
